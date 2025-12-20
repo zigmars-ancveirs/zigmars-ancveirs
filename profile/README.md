@@ -18,6 +18,6 @@ Founder of **FINULIO** — market observability for consumer finance: data, meth
 Research-grade monitoring, datasets and APIs — plus technical/security/compliance and UX reviews, and product engineering when aligned with the mission.
 
 ### Links
-- Product: https://finulio.com
-- Org: https://github.com/finulio
+- Website: https://finulio.com
+- FINULIO org: https://github.com/finulio
 - Security: https://assets.finulio.com/.well-known/security.txt
