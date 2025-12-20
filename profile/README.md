@@ -12,6 +12,7 @@ Founder of **FINULIO** — market observability for consumer finance: data, meth
 - Data engineering (extraction, validation, versioned contracts)
 - Security & privacy by design (threat modeling, compliance readiness)
 - Cloud/edge architecture and reliable delivery
+- Languages: Go, Python, JavaScript/TypeScript, PHP
 
 ### Partner work (selective)
 Research-grade monitoring, datasets and APIs — plus technical/security/compliance and UX reviews, and product engineering when aligned with the mission.
