@@ -21,3 +21,6 @@ Selected B2B/B2G collaboration: monitoring datasets & APIs, plus security/privac
 - Website: https://finulio.com
 - FINULIO org: https://github.com/finulio
 - Security: https://assets.finulio.com/.well-known/security.txt
+
+## Proof of work (pinned)
+⬇️ See pinned repos below
