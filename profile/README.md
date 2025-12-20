@@ -1,6 +1,6 @@
 ## Hi — I’m Zigmārs Ancveirs
 
-Founder of **FINULIO** — market observability for consumer finance: data, methodology, corrections & assurance.
+Founder of **FINULIO** — market observability for consumer finance: data, methodology, corrections & assurance. 20+ years across web platforms, APIs, data pipelines, and cloud/edge operations — with a security & compliance-by-design mindset.
 
 ### What I build
 - Comparable consumer-finance data with clear disclosures and auditability
