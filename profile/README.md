@@ -14,8 +14,8 @@ Founder of **FINULIO** — market observability for consumer finance: data, meth
 - Cloud/edge architecture and reliable delivery
 - Languages: Go, Python, JavaScript/TypeScript, PHP
 
-### Partner work (selective)
-Research-grade monitoring, datasets and APIs — plus technical/security/compliance and UX reviews, and product engineering when aligned with the mission.
+### B2B/B2G collaboration (selected)
+Selected B2B/B2G collaboration: monitoring datasets & APIs, plus security/privacy/compliance and usability reviews — when aligned with the mission.
 
 ### Links
 - Website: https://finulio.com
