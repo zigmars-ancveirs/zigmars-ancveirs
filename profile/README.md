@@ -1,4 +1,4 @@
-## Hi — I’m Zigmārs
+## Hi — I’m Zigmārs Ancveirs
 
 Founder of **FINULIO** — market observability for consumer finance: data, methodology, corrections & assurance.
 
