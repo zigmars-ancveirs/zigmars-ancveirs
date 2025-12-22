@@ -28,6 +28,7 @@ Founder of **FINULIO** — market observability for consumer finance: data, meth
 
 ### Collaboration (selected)
 Open to selected engineering collaborations: hardening web/API & data systems, monitoring & change detection, and AI-assisted automation with guardrails (strict schemas + validation).  
+
 Also available for high-level, evidence-driven reviews: data quality & provenance, security/privacy readiness, and usability/clarity.
 
 ### Links
