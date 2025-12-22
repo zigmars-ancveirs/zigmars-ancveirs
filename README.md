@@ -33,3 +33,9 @@ Also available for high-level, evidence-driven reviews: data quality & provenanc
 - FINULIO: https://finulio.com
 - FINULIO org: https://github.com/finulio
 - Security: https://assets.finulio.com/.well-known/security.txt
+
+Start here:
+- **finulio/finulio-dev** — Developer portal & API docs (OpenAPI, guides, examples)
+- **finulio/finulio-schemas** — Versioned JSON Schemas (validation, compatibility, traceability)
+- **finulio/finulio-public** — Public assets + press kit + `.well-known/*` endpoints
+
