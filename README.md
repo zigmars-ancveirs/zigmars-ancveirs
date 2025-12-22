@@ -17,7 +17,7 @@ Founder of **FINULIO** — market observability for consumer finance: data, meth
 - Full-stack engineering (web + APIs)
 - Data engineering (extraction, validation, versioned contracts)
 - Cloud/edge architecture and reliable delivery (observability, CI/CD, performance)
-- Languages: Go, Python, JavaScript/TypeScript, PHP
+- Languages: Go, Python, JavaScript/TypeScript, Dart, PHP
 
 ### Proof of work (start here)
 - **finulio/finulio-dev** — Developer portal & API docs (OpenAPI, guides, examples)
