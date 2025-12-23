@@ -1,6 +1,6 @@
 ## Hi — I’m Zigmārs Ancveirs
 
-Founder of **FINULIO** — market observability for consumer finance: data, methodology, corrections-first & transparency verification signals. **20+ years as a developer/engineer.** **Fintech since 2008** (finance comparison platforms; credit-data ecosystem / credit-information bureau operations). Security & privacy by design.
+Founder of **Finulio** — market observability for consumer finance: data, methodology, corrections-first & transparency verification signals. **20+ years as a developer/engineer.** **Fintech since 2008** (finance comparison platforms; credit-data ecosystem / credit-information bureau operations). Security & privacy by design.
 
 ### What I build
 - Comparable consumer-finance data with clear disclosures and traceability/provenance (versioned evidence trail)
@@ -30,8 +30,8 @@ Open to selected engineering collaborations: hardening web/API & data systems, m
 Also available for high-level, evidence-driven reviews: data quality & provenance, security/privacy readiness, and usability/clarity.
 
 ### Links
-- FINULIO: https://finulio.com
-- FINULIO org: https://github.com/finulio
+- Finulio: https://finulio.com
+- Finulio org: https://github.com/finulio
 - Security: https://assets.finulio.com/.well-known/security.txt
 - Developer portal & API docs (OpenAPI, guides, examples): [finulio/finulio-dev](https://github.com/finulio/finulio-dev)
 - Versioned JSON Schemas (validation, compatibility, traceability): [finulio/finulio-schemas](https://github.com/finulio/finulio-schemas)
