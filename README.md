@@ -12,6 +12,7 @@ Founder of **Finulio** — market observability for consumer finance: data, meth
 - Contracts-first: JSON Schema / OpenAPI, versioning & compatibility rules
 - Monitoring-first: freshness/anomalies are product features, not afterthoughts
 - Security & privacy-by-design: threat modeling, least-PII, evidence-driven readiness reviews (non-certification)
+- Efficiency-first: lean delivery, minimal compute, and measurable footprint reduction where reporting exists (no “carbon neutral” claims)
 
 ### Strengths
 - Full-stack engineering (web + APIs)
@@ -25,7 +26,7 @@ Founder of **Finulio** — market observability for consumer finance: data, meth
 - **finulio/finulio-public** — Public assets + press kit + `.well-known/*` endpoints
 
 ### Collaboration (selected)
-Open to selected engineering collaborations: hardening web/API & data systems, monitoring & change detection, and AI-assisted automation with guardrails (strict schemas + validation).  
+Open to selected engineering collaborations: hardening web/API & data systems, monitoring & change detection, and AI-assisted automation with guardrails (strict schemas + validation).
 
 Also available for high-level, evidence-driven reviews: data quality & provenance, security/privacy readiness, and usability/clarity.
 
@@ -33,7 +34,6 @@ Also available for high-level, evidence-driven reviews: data quality & provenanc
 - Finulio: https://finulio.com
 - Finulio org: https://github.com/finulio
 - Security: https://assets.finulio.com/.well-known/security.txt
-- Developer portal & API docs (OpenAPI, guides, examples): [finulio/finulio-dev](https://github.com/finulio/finulio-dev)
-- Versioned JSON Schemas (validation, compatibility, traceability): [finulio/finulio-schemas](https://github.com/finulio/finulio-schemas)
-- Public assets + press kit + .well-known/* endpoints: [finulio/finulio-public](https://github.com/finulio/finulio-public)
-
+- Developer portal & API docs (OpenAPI, guides, examples): https://github.com/finulio/finulio-dev
+- Versioned JSON Schemas (validation, compatibility, traceability): https://github.com/finulio/finulio-schemas
+- Public assets + press kit + .well-known/* endpoints: https://github.com/finulio/finulio-public
