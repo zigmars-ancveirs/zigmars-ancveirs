@@ -1,44 +1,39 @@
-<!-- Badges (keep it lean: 4–6 max) -->
-![CI](https://github.com/<ORG>/<REPO>/actions/workflows/<WORKFLOW>.yml/badge.svg?branch=main)
-![CodeQL](https://github.com/<ORG>/<REPO>/actions/workflows/codeql.yml/badge.svg?branch=main)
-![security.txt](https://img.shields.io/badge/security.txt-published-2ea44f?style=flat-square)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-3.1-1f6feb?style=flat-square)
-![JSON%20Schema](https://img.shields.io/badge/JSON%20Schema-versioned-6f42c1?style=flat-square)
-![Publisher-only](https://img.shields.io/badge/model-publisher--only-0b7285?style=flat-square)
-
 ## Hi — I’m Zigmārs Ancveirs
 
-Founder-led **Finulio**: market observability for consumer finance — comparable data, transparent methodology, corrections-first, and verification signals.
+Founder-led engineer building evidence-first systems for high-trust domains (fintech, data, security).  
+**20+ years** in software engineering. **Fintech since 2008** (comparison platforms, credit-data ecosystem / credit-information bureau operations).
 
-**20+ years** building web + data systems. **Fintech since 2008** (comparison platforms, credit-data ecosystem, credit-information bureau operations).
-Security & privacy by design.
+I care about: **traceability**, **reproducibility**, **privacy-by-design**, and **boring reliability**.
 
-### What I build
-- Comparable consumer-finance datasets with clear disclosures and traceable provenance (versioned evidence trail)
-- Monitoring & change detection: freshness, deltas, and anomaly signals
-- Trust tooling: corrections workflow, methodology, and transparency/security posture signals
+### What I work on
+- Market observability: snapshots → diffs → change signals (freshness, deltas, anomalies)
+- Data contracts & provenance: versioned schemas, compatibility rules, reproducible outputs
+- Trust tooling: corrections workflow, transparent methodology, verification signals
+- Security & privacy engineering: threat modeling, least-PII architectures, evidence-driven readiness reviews (non-certification)
 
-### Operating principles (defaults)
-- Evidence-first: snapshots, diffs, provenance, reproducible outputs
-- Contracts-first: JSON Schema + OpenAPI, versioning & compatibility rules
+### How I work (defaults)
+- Evidence-first: sources, snapshots, diffs, provenance — no “hand-wavy” claims
+- Contracts-first: JSON Schema / OpenAPI, versioning & compatibility discipline
 - Monitoring-first: freshness/anomalies are product features, not afterthoughts
-- Security & privacy by design: threat modeling, least-PII, evidence-driven readiness reviews (non-certification)
-- Efficiency-first: lean delivery, minimal compute, measurable impact only where reporting exists (no “carbon neutral” claims)
+- Security & privacy-by-design: least-privilege, minimal data collection, clear threat model
+- Efficiency-first: lean delivery, minimal compute; measurable impact only where reporting exists (no “carbon neutral” claims)
 
-### What Finulio is *not*
-- Not a lender, not a broker, not a lead-gen marketplace
-- No “application funnels”, no hidden profiling — publisher-only by design
+### Strengths
+- Full-stack engineering (web + APIs)
+- Data engineering (extraction, validation, versioned contracts)
+- Cloud/edge architecture & reliable delivery (observability, CI/CD, performance)
+- Languages: Go, Python, TypeScript/JavaScript, Dart, PHP
 
-### Focus areas for collaboration
-Selected engineering collaborations:
-- Hardening web/API + data pipelines
-- Monitoring & change detection (freshness, deltas, anomaly detection)
+### Collaboration
+Open to selected collaborations:
+- Hardening web/API & data systems
+- Monitoring & change detection pipelines (freshness/delta/anomaly)
 - AI-assisted automation with guardrails (strict schemas + validation)
 
-Also available for high-level, evidence-driven reviews:
+Available for high-level, evidence-driven reviews:
 - Data quality & provenance
 - Security/privacy readiness (signals-based, non-certification)
-- Usability/clarity in high-trust domains
+- Usability/clarity for trust-heavy products
 
 ### Links
 - Finulio: https://finulio.com
