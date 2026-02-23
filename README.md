@@ -1,39 +1,45 @@
+<!-- Badges (keep it lean: 4–6 max) -->
+![CI](https://github.com/<ORG>/<REPO>/actions/workflows/<WORKFLOW>.yml/badge.svg?branch=main)
+![CodeQL](https://github.com/<ORG>/<REPO>/actions/workflows/codeql.yml/badge.svg?branch=main)
+![security.txt](https://img.shields.io/badge/security.txt-published-2ea44f?style=flat-square)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-3.1-1f6feb?style=flat-square)
+![JSON%20Schema](https://img.shields.io/badge/JSON%20Schema-versioned-6f42c1?style=flat-square)
+![Publisher-only](https://img.shields.io/badge/model-publisher--only-0b7285?style=flat-square)
+
 ## Hi — I’m Zigmārs Ancveirs
 
-Founder-led of **Finulio** — market observability for consumer finance: data, methodology, corrections-first & transparency verification signals. **20+ years as a developer/engineer.** **Fintech since 2008** (finance comparison platforms; credit-data ecosystem / credit-information bureau operations). Security & privacy by design.
+Founder-led **Finulio**: market observability for consumer finance — comparable data, transparent methodology, corrections-first, and verification signals.
+
+**20+ years** building web + data systems. **Fintech since 2008** (comparison platforms, credit-data ecosystem, credit-information bureau operations).
+Security & privacy by design.
 
 ### What I build
-- Comparable consumer-finance data with clear disclosures and traceability/provenance (versioned evidence trail)
-- Monitoring & change detection (freshness, deltas, anomalies)
-- Trust tooling: corrections workflow, transparent methodology, transparency and security posture signals
+- Comparable consumer-finance datasets with clear disclosures and traceable provenance (versioned evidence trail)
+- Monitoring & change detection: freshness, deltas, and anomaly signals
+- Trust tooling: corrections workflow, methodology, and transparency/security posture signals
 
-### How I work (my defaults)
+### Operating principles (defaults)
 - Evidence-first: snapshots, diffs, provenance, reproducible outputs
-- Contracts-first: JSON Schema / OpenAPI, versioning & compatibility rules
+- Contracts-first: JSON Schema + OpenAPI, versioning & compatibility rules
 - Monitoring-first: freshness/anomalies are product features, not afterthoughts
-- Security & privacy-by-design: threat modeling, least-PII, evidence-driven readiness reviews (non-certification)
-- Efficiency-first: lean delivery, minimal compute, and measurable footprint reduction where reporting exists (no “carbon neutral” claims)
+- Security & privacy by design: threat modeling, least-PII, evidence-driven readiness reviews (non-certification)
+- Efficiency-first: lean delivery, minimal compute, measurable impact only where reporting exists (no “carbon neutral” claims)
 
-### Strengths
-- Full-stack engineering (web + APIs)
-- Data engineering (extraction, validation, versioned contracts)
-- Cloud/edge architecture and reliable delivery (observability, CI/CD, performance)
-- Languages: Go, Python, JavaScript/TypeScript, Dart, PHP
+### What Finulio is *not*
+- Not a lender, not a broker, not a lead-gen marketplace
+- No “application funnels”, no hidden profiling — publisher-only by design
 
-### Proof of work (start here)
-- **finulio/finulio-dev** — Developer portal & API docs (OpenAPI, guides, examples)
-- **finulio/finulio-schemas** — Versioned JSON Schemas (validation, compatibility, auditing)
-- **finulio/finulio-public** — Public assets + press kit + `.well-known/*` endpoints
+### Focus areas for collaboration
+Selected engineering collaborations:
+- Hardening web/API + data pipelines
+- Monitoring & change detection (freshness, deltas, anomaly detection)
+- AI-assisted automation with guardrails (strict schemas + validation)
 
-### Collaboration (selected)
-Open to selected engineering collaborations: hardening web/API & data systems, monitoring & change detection, and AI-assisted automation with guardrails (strict schemas + validation).
-
-Also available for high-level, evidence-driven reviews: data quality & provenance, security/privacy readiness, and usability/clarity.
+Also available for high-level, evidence-driven reviews:
+- Data quality & provenance
+- Security/privacy readiness (signals-based, non-certification)
+- Usability/clarity in high-trust domains
 
 ### Links
 - Finulio: https://finulio.com
-- Finulio org: https://github.com/finulio
-- Security: https://assets.finulio.com/.well-known/security.txt
-- Developer portal & API docs (OpenAPI, guides, examples): https://github.com/finulio/finulio-dev
-- Versioned JSON Schemas (validation, compatibility, traceability): https://github.com/finulio/finulio-schemas
-- Public assets + press kit + .well-known/* endpoints: https://github.com/finulio/finulio-public
+- GitHub org: https://github.com/finulio
